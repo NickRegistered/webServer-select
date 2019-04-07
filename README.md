@@ -1,4 +1,7 @@
-# Web-Server
+# webServer-select
+
+使用select模型实现的Web服务器
+
 
 &emsp;启动服务器之前设置虚拟路径，IP地址和端口号：
 
